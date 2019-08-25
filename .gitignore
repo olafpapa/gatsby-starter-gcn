@@ -2,8 +2,9 @@ node_modules
 .cache/
 public/
 .DS_Store
-yarn*
+yarn.lock
 *.log
 contentful-import-error-log*
 .env*
 .contentful.json
+.idea/
