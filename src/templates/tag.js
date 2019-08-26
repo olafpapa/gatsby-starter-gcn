@@ -50,9 +50,10 @@ const TagTemplate = ({ data, pageContext }) => {
 
       <Container>
         <PageTitle small>
-          {numberOfPosts} Posts Tagged: &ldquo;
+          &ldquo;
           {title}
           &rdquo;
+          {numberOfPosts}件
         </PageTitle>
 
         <CardList>
