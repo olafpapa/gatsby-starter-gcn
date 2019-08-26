@@ -4,6 +4,7 @@ const theme = {
     secondary: '#C3C3E5',
     tertiary: '#F1F0FF',
     highlight: '#8C489F',
+    text: '#333333',
   },
   sizes: {
     maxWidth: '1050px',

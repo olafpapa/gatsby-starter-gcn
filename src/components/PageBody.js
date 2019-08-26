@@ -5,7 +5,8 @@ require('prismjs/themes/prism.css')
 const Body = styled.div`
   margin: 0 auto;
   max-width: ${props => props.theme.sizes.maxWidthCentered};
-
+  color: ${props => props.theme.colors.text};
+  
   h1,
   h2,
   h3 {
@@ -94,6 +95,10 @@ const Body = styled.div`
     span {
       background: inherit !important;
     }
+  }
+  
+  code {
+    color: ${props => props.theme.colors.text} !important;
   }
 `
 

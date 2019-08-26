@@ -11,10 +11,12 @@ const Wrapper = styled.div`
 
 const Date = styled.p`
   display: inline-block;
+  color: ${props => props.theme.colors.text};
 `
 
 const ReadingTime = styled.p`
   display: inline-block;
+  color: ${props => props.theme.colors.text};
 `
 
 const PostDetails = props => {
