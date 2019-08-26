@@ -12,10 +12,10 @@ module.exports = {
   userTwitter: '@olafpapa2', // Change for Twitter Cards
   shortTitle: 'OlafPapa', // Used for App manifest e.g. Mobile Home Screen
   shareImage: '/logos/share.jpg', // Open Graph Default Share Image. 1200x1200 is recommended
-  shareImageWidth: 900, // Change to the width of your default share image
-  shareImageHeight: 600, // Change to the height of your default share image
+  shareImageWidth: 800, // Change to the width of your default share image
+  shareImageHeight: 450, // Change to the height of your default share image
   siteLogo: '/logos/logo-512.png', // Logo used for SEO, RSS, and App manifest
   backgroundColor: '#e9e9e9', // Used for Offline Manifest
   themeColor: '#121212', // Used for Offline Manifest
-  copyright: 'Copyright © 2018 GCN User', // Copyright string for the RSS feed
+  copyright: 'Copyright © 2019 OlafPapa', // Copyright string for the RSS feed
 }
