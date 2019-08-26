@@ -90,7 +90,7 @@ const Body = styled.div`
   pre {
     margin: 0 0 2em 0;
     border-radius: 2px;
-    background: ${props => props.theme.colors.secondary} !important;
+    background: ${props => props.theme.colors.tertiary} !important;
     span {
       background: inherit !important;
     }
