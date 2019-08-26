@@ -30,12 +30,12 @@ const Nav = styled.nav`
 
   a {
     text-decoration: none;
-    color: DarkGray;
+    color: white;
     font-weight: 600;
     transition: all 0.2s;
     border-bottom: 2px solid ${props => props.theme.colors.base};
     &:hover {
-      color: white;
+      color: ${props => props.theme.colors.secondary};
     }
   }
 `
@@ -57,11 +57,6 @@ const Menu = () => {
           <li>
             <Link to="/about/" activeStyle={activeLinkStyle}>
               About
-            </Link>
-          </li>
-          <li>
-            <Link to="/contact/" activeStyle={activeLinkStyle}>
-              Contact
             </Link>
           </li>
         </ul>
