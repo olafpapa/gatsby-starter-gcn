@@ -5,8 +5,8 @@ module.exports = {
   siteDescription:
     'Flutter入門',
   siteUrl: 'https://priceless-bardeen-f24139.netlify.com', // Site domain. Do not include a trailing slash! If you wish to use a path prefix you can read more about that here: https://www.gatsbyjs.org/docs/path-prefix/
-  postsPerHomePage: 7, // Number of posts shown on the 1st page of of the index.js template (home page)
-  postsPerPage: 6, // Number of posts shown on paginated pages
+  postsPerHomePage: 10, // Number of posts shown on the 1st page of of the index.js template (home page)
+  postsPerPage: 9, // Number of posts shown on paginated pages
   author: 'OlafPapa', // Author for RSS author segment and SEO schema
   authorUrl: 'https://priceless-bardeen-f24139.netlify.com/about/', // URL used for author and publisher schema, can be a social profile or other personal site
   userTwitter: '@olafpapa2', // Change for Twitter Cards
