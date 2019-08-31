@@ -1,9 +1,9 @@
 const theme = {
   colors: {
-    base: '#443266',
-    secondary: '#C3C3E5',
-    tertiary: '#F1F0FF',
-    highlight: '#8C489F',
+    base: '#245a95',
+    secondary: '#c6e5f9',
+    tertiary: '#f8f9fa',
+    highlight: '#2b66b7',
     text: '#333333',
   },
   sizes: {
